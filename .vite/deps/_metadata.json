@@ -1,0 +1,46 @@
+{
+  "hash": "59434bbe",
+  "configHash": "0544d79d",
+  "lockfileHash": "7c4e957d",
+  "browserHash": "9708e044",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/.pnpm/react@18.3.1/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "103ec608",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/.pnpm/react@18.3.1/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "fc26be69",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "5c689f91",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/.pnpm/react-router-dom@7.5.3_react-dom@18.3.1_react@18.3.1/node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "f2d4df6b",
+      "needsInterop": false
+    },
+    "sonner": {
+      "src": "../../node_modules/.pnpm/sonner@2.0.3_react-dom@18.3.1_react@18.3.1/node_modules/sonner/dist/index.mjs",
+      "file": "sonner.js",
+      "fileHash": "762e0003",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-K7F5GHBP": {
+      "file": "chunk-K7F5GHBP.js"
+    },
+    "chunk-GF54CYHL": {
+      "file": "chunk-GF54CYHL.js"
+    }
+  }
+}
